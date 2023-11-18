@@ -1,0 +1,16 @@
+.Chip{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 4px 8px;
+    color: antiquewhite;
+    background-color: gray;
+    border-radius: 40px;
+    width: fit-content;
+    font-size: 14px;
+}
+.Chip svg{
+    height: 16px;
+    width: 16px;
+    cursor: pointer;
+}
